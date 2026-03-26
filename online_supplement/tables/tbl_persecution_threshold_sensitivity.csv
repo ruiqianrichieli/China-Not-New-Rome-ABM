@@ -1,0 +1,8 @@
+"param_label","param_value","peak_pct","peak_year","final_pct","final_R_mean"
+"Threshold = 2%",0.02,7.7,2036,6.7,1.997
+"Threshold = 5% (baseline)",0.05,10.4,2040,9.2,1.996
+"Threshold = 10%",0.1,13,2046,11.5,1.769
+"Threshold = 15%",0.15,13.7,2042,11.8,1.415
+"Threshold = 20%",0.2,14.1,2040,11.2,1.199
+"Threshold = 25%",0.25,14.1,2038,10.4,1.036
+"Threshold = 30%",0.3,14.1,2038,10.4,1.036

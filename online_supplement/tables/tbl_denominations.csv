@@ -1,0 +1,21 @@
+"Scenario","R_Dist","Evangelical_Pct","Evangelical_Share","Evangelical_R","Mainline_Pct","Mainline_Share","Mainline_R","Catholic_Pct","Catholic_Share","Catholic_R","Charismatic_Pct","Charismatic_Share","Charismatic_R","Other Christian_Pct","Other Christian_Share","Other Christian_R"
+"1: Chr + Nones (Free)","Normal",1.08,62,0.971,0,0.1,0.547,0,0,NA,0.66,37.9,1.277,0,0,0.59
+"2: Chr + Passive NC (Free)","Normal",0.58,63.6,0.944,0,0,NA,0,0,NA,0.33,36.4,1.286,0,0,NA
+"3: Chr + Active NC (Free)","Normal",0.7,82.3,0.917,0,0.1,0.728,0,0,NA,0.15,17.6,1.226,0,0,NA
+"4: Chr + Passive NC (Reg)","Normal",0.13,56.9,0.957,0,0,NA,0,0,NA,0.1,43.1,1.302,0,0,NA
+"5: Chr + Active NC (Reg)","Normal",0.1,53.1,0.969,0,0,NA,0,0.7,0.775,0.09,45.9,1.272,0,0.3,0.707
+"1: Chr + Nones (Free)","Bimodal",1.04,79.2,0.937,0,0.2,0.378,0,0.1,0.772,0.27,20.6,1.274,0,0,NA
+"2: Chr + Passive NC (Free)","Bimodal",0.59,74.4,0.923,0,0.2,0.81,0,0,NA,0.2,25.4,1.256,0,0.1,0.303
+"3: Chr + Active NC (Free)","Bimodal",0.65,83,0.895,0,0,NA,0,0.3,0.46,0.13,16.8,1.257,0,0,NA
+"4: Chr + Passive NC (Reg)","Bimodal",0.15,65.6,0.987,0,0.3,0.232,0,0,NA,0.08,33.5,1.265,0,0.6,0.507
+"5: Chr + Active NC (Reg)","Bimodal",0.11,57.5,0.991,0,0,NA,0,0,NA,0.08,42.2,1.296,0,0.3,0.687
+"1: Chr + Nones (Free)","Right-skewed",29.53,79.1,0.975,0,0,NA,0,0,NA,7.79,20.9,1.262,0,0,NA
+"2: Chr + Passive NC (Free)","Right-skewed",38.89,87.6,0.977,0,0,NA,0,0,NA,5.49,12.4,1.254,0,0,NA
+"3: Chr + Active NC (Free)","Right-skewed",45.85,89.8,0.967,0,0,NA,0,0,0.989,5.23,10.2,1.259,0,0,NA
+"4: Chr + Passive NC (Reg)","Right-skewed",0.1,1.1,1.999,0,0,NA,0,0,NA,9.1,98.9,1.996,0,0,NA
+"5: Chr + Active NC (Reg)","Right-skewed",0.29,2.9,1.959,0,0,NA,0,0,NA,9.69,97.1,1.997,0,0,NA
+"1: Chr + Nones (Free)","Left-skewed",0,25,0.852,0,0,NA,0,0,NA,0,75,1.325,0,0,NA
+"2: Chr + Passive NC (Free)","Left-skewed",0,60,0.994,0,40,0.673,0,0,NA,0,0,NA,0,0,NA
+"3: Chr + Active NC (Free)","Left-skewed",0,57.1,0.725,0,0,NA,0,14.3,0.514,0,0,NA,0,28.6,0.766
+"4: Chr + Passive NC (Reg)","Left-skewed",0,33.3,0.811,0,66.7,0.673,0,0,NA,0,0,NA,0,0,NA
+"5: Chr + Active NC (Reg)","Left-skewed",0,66.7,0.73,0,0,NA,0,0,NA,0,0,NA,0,33.3,0.508

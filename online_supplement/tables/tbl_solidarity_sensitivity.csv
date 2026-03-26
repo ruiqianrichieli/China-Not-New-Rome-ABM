@@ -1,0 +1,7 @@
+"param_label","param_value","peak_pct","peak_year","final_pct","final_R_mean"
+"Solidarity = 0",0,9.8,2034,6.8,1.071
+"Solidarity = 0.25",0.25,10.5,2038,9.2,1.993
+"Solidarity = 0.5 (baseline)",0.5,10.4,2040,9.2,1.996
+"Solidarity = 1",1,10.4,2040,9.2,1.995
+"Solidarity = 1.5",1.5,10.4,2040,9.2,1.995
+"Solidarity = 2",2,10.4,2040,9.2,1.995

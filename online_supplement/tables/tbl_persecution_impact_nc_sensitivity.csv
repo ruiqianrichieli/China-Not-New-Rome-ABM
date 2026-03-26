@@ -1,0 +1,5 @@
+"param_label","param_value","peak_pct","peak_year","final_pct","final_R_mean"
+"NC Impact = 0",0,10.4,2040,9.2,1.996
+"NC Impact = 0.1 (baseline)",0.1,10.4,2040,9.2,1.996
+"NC Impact = 0.3",0.3,10.4,2040,9.2,1.996
+"NC Impact = 0.5",0.5,10.4,2040,9.2,1.996

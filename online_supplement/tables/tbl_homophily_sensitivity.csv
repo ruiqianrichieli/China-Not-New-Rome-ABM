@@ -1,0 +1,5 @@
+"param_label","param_value","peak_pct","peak_year","final_pct","final_R_mean"
+"Homophily = 20%",0.2,12.2,2042,10.9,1.995
+"Homophily = 35%",0.35,11,2042,9.7,1.929
+"Homophily = 50% (baseline)",0.5,10.4,2040,9.2,1.996
+"Homophily = 70%",0.7,9.4,2044,8.3,1.966

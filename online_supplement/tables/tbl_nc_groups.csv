@@ -1,0 +1,17 @@
+"Scenario","R_Dist","Buddhism_Pct","Folk Religion_Pct","Islam_Pct","Daoism_Pct","Total_NC"
+"2: Chr + Passive NC (Free)","Normal",0.25,0.72,0.3,0.05,1.32
+"3: Chr + Active NC (Free)","Normal",1.13,2.26,0.31,0.09,3.77
+"4: Chr + Passive NC (Reg)","Normal",0.24,0.71,0.31,0.04,1.29
+"5: Chr + Active NC (Reg)","Normal",0.58,1.38,0.3,0.07,2.33
+"2: Chr + Passive NC (Free)","Bimodal",0.26,0.67,0.28,0.03,1.24
+"3: Chr + Active NC (Free)","Bimodal",1.13,2.25,0.28,0.09,3.75
+"4: Chr + Passive NC (Reg)","Bimodal",0.24,0.67,0.28,0.05,1.24
+"5: Chr + Active NC (Reg)","Bimodal",0.58,1.37,0.27,0.07,2.29
+"2: Chr + Passive NC (Free)","Right-skewed",0.01,0,0.47,0,0.48
+"3: Chr + Active NC (Free)","Right-skewed",0.26,0.18,0.48,0,0.92
+"4: Chr + Passive NC (Reg)","Right-skewed",0.44,1.39,0.46,0.08,2.37
+"5: Chr + Active NC (Reg)","Right-skewed",2.14,3.49,0.47,0.16,6.25
+"2: Chr + Passive NC (Free)","Left-skewed",0,0.01,0.03,0,0.04
+"3: Chr + Active NC (Free)","Left-skewed",0.01,0.03,0.03,0,0.07
+"4: Chr + Passive NC (Reg)","Left-skewed",0,0,0.01,0,0.02
+"5: Chr + Active NC (Reg)","Left-skewed",0,0.01,0.03,0,0.04

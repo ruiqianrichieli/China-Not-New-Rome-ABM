@@ -1,0 +1,7 @@
+"param_label","param_value","peak_pct","peak_year","final_pct","final_R_mean"
+"Deterrence = 0",0,10.4,2040,9.2,1.996
+"Deterrence = 0.25",-0.25,10.4,2040,9.2,1.996
+"Deterrence = 0.5 (baseline)",-0.5,10.4,2040,9.2,1.996
+"Deterrence = 0.75",-0.75,10.4,2040,9.2,1.996
+"Deterrence = 1",-1,10.4,2040,9.2,1.996
+"Deterrence = 1.5",-1.5,10.4,2040,9.2,1.996

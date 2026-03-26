@@ -1,0 +1,21 @@
+"Scenario","R_Dist","High_R_Pct","Mid_R_Pct","Low_R_Pct","Mean_R"
+"1: Chr + Nones (Free)","Normal",65.2,34.8,0,1.1
+"2: Chr + Passive NC (Free)","Normal",55.9,44.1,0,1.069
+"3: Chr + Active NC (Free)","Normal",36.4,63.6,0,0.985
+"4: Chr + Passive NC (Reg)","Normal",71.1,28.9,0,1.147
+"5: Chr + Active NC (Reg)","Normal",67.8,32.2,0,1.105
+"1: Chr + Nones (Free)","Bimodal",40.7,59.3,0,1.009
+"2: Chr + Passive NC (Free)","Bimodal",46.9,53.1,0,1.023
+"3: Chr + Active NC (Free)","Bimodal",34.1,65.9,0,0.968
+"4: Chr + Passive NC (Reg)","Bimodal",64.9,35.1,0,1.081
+"5: Chr + Active NC (Reg)","Bimodal",65.4,34.6,0,1.109
+"1: Chr + Nones (Free)","Right-skewed",54,46,0,1.037
+"2: Chr + Passive NC (Free)","Right-skewed",49.7,50.3,0,1.013
+"3: Chr + Active NC (Free)","Right-skewed",43.9,56.1,0,0.998
+"4: Chr + Passive NC (Reg)","Right-skewed",100,0,0,1.996
+"5: Chr + Active NC (Reg)","Right-skewed",99.9,0.1,0,1.996
+"1: Chr + Nones (Free)","Left-skewed",66.7,33.3,0,1.168
+"2: Chr + Passive NC (Free)","Left-skewed",40,60,0,0.866
+"3: Chr + Active NC (Free)","Left-skewed",28.6,71.4,0,0.707
+"4: Chr + Passive NC (Reg)","Left-skewed",0,100,0,0.719
+"5: Chr + Active NC (Reg)","Left-skewed",33.3,66.7,0,0.656
